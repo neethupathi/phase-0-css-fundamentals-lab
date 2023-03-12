@@ -3,3 +3,54 @@ body {
   height: 100%;
   margin: 0;
 }
+* {
+  text-align:center;
+}
+/*
+header ~ section {
+align-content:center;
+}*/
+header {
+  text-align:center;
+
+}
+nav {
+  background-color: grey;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 425px;
+  margin-right: 425px;
+}/*
+a {
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}*/
+img {
+
+  display: block;
+  margin-left:0px;
+  margin-right: 0px;
+}
+
+#featured-property {
+text-align: center;
+margin-left: 300px;
+
+width:800px;
+vertical-align: middle;
+}
+
+   div {
+
+  float:left;
+  padding:100px;
+  padding-bottom:5px;
+  background:red;
+  color: black;
+background-color: red;
+
+   }
+
+
